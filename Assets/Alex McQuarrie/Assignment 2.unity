@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 862771425}
   - component: {fileID: 862771424}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: Demon_detail_txt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -516,7 +516,7 @@ GameObject:
   - component: {fileID: 1032718156}
   - component: {fileID: 1032718155}
   m_Layer: 0
-  m_Name: Quad (1)
+  m_Name: Demon Concept
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -621,7 +621,7 @@ GameObject:
   - component: {fileID: 1232742091}
   - component: {fileID: 1232742090}
   m_Layer: 0
-  m_Name: Text (TMP) (1)
+  m_Name: Demon Concept_txt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -858,7 +858,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0363e1f7e25f3a64f8bf0e57d1d93421,
         type: 3}
       propertyPath: m_Name
-      value: Demon Concept Merged Game PLAT
+      value: Demon Concept Model
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 1656188354}
   - component: {fileID: 1656188353}
   m_Layer: 0
-  m_Name: Quad (3)
+  m_Name: Level Design Concept
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -984,7 +984,7 @@ GameObject:
   - component: {fileID: 1680700347}
   - component: {fileID: 1680700346}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: Demon Head Concept
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1089,7 +1089,7 @@ GameObject:
   - component: {fileID: 2129723315}
   - component: {fileID: 2129723314}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: Level Desing_txt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
